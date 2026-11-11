@@ -1,0 +1,8 @@
+Bodoni Moda
+Copyright 2020 The Bodoni Moda Project Authors (https://github.com/indestructible-type/Bodoni)
+
+Familjen Grotesk
+Copyright 2019–2020 Familjen (https://github.com/Familjen/familjen-grotesk)
+
+Both families are licensed under the SIL Open Font License, Version 1.1.
+The license text is in OFL.txt in this folder.
